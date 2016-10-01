@@ -1,0 +1,11 @@
+@font-face {
+  font-family:"Chicago Bold";
+  src: url("/fonts/Chicago_Bold.eot?") format("eot"), url("/fonts/Chicago_Bold.woff") format("woff"), url("/fonts/Chicago_Bold.ttf") format("truetype"), url("/fonts/Chicago_Bold.svg#ChicagoBold") format("svg");
+  font-weight:normal;
+  font-style:normal;
+}
+body {
+  font-family: "Chicago Bold", monospace;
+  background-color: rgba(184, 199, 215, 0.6);
+  color: rgb(27,33,58);
+}
